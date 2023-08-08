@@ -1,0 +1,15 @@
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.csproj.AssemblyReference.cache
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.GeneratedMSBuildEditorConfig.editorconfig
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.AssemblyInfoInputs.cache
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.AssemblyInfo.cs
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.csproj.CoreCompileInputs.cache
+E:\разработчик GB\c#\homework1\task9\50\bin\Debug\net6.0\50.exe
+E:\разработчик GB\c#\homework1\task9\50\bin\Debug\net6.0\50.deps.json
+E:\разработчик GB\c#\homework1\task9\50\bin\Debug\net6.0\50.runtimeconfig.json
+E:\разработчик GB\c#\homework1\task9\50\bin\Debug\net6.0\50.dll
+E:\разработчик GB\c#\homework1\task9\50\bin\Debug\net6.0\50.pdb
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.dll
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\refint\50.dll
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.pdb
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\50.genruntimeconfig.cache
+E:\разработчик GB\c#\homework1\task9\50\obj\Debug\net6.0\ref\50.dll
